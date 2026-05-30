@@ -64,7 +64,9 @@ This commands includes
 ## arp
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ad19be5d-cc18-4cf1-aa5a-a057befcd677" />
+
 ## systeminfo
+
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/44a19a7c-619a-47a3-8063-6a50a8b78b57" />
 
 ## Result
