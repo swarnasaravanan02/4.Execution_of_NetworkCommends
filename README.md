@@ -31,9 +31,9 @@ This commands includes
 ## Output
 ## ipconfig
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/28bff6ae-8dc2-46e6-8a5c-d492e35681da" />
-## ping
+##  ping
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/0c4984a3-26d3-4923-bbc7-a1de63b09dd6" />
-## tracert 
+##  tracert 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/a1f72fcf-37c8-48ed-aecd-ab3269e23588" />
 ## nslookup 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/1ad28bfe-8c3e-49c2-bd48-58ab528290ce" />
